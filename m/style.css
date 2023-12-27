@@ -1,0 +1,24 @@
+button{
+
+height: 35px;
+width: 115px;
+background-color: white;
+
+
+}
+
+button:hover{
+
+transition: 0.5;
+background-color: red;
+transform: scale(1.1);
+
+}
+
+a{
+
+text-decoration: none;
+color: black;
+
+}
+
